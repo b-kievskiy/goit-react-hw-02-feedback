@@ -1,0 +1,1 @@
+{"version":3,"sources":["feedbackOptions.module.css"],"names":[],"mappings":"AAAA,+BACE,iBAAkB,CAClB,gBAAiB,CACjB,eAAgB,CAChB,iBAAkB,CAClB,cAAe,CACf,YACF","file":"main.8790df44.chunk.css","sourcesContent":[".button {\r\n  margin-right: 12px;\r\n  padding: 6px 12px;\r\n  font-weight: 700;\r\n  border-radius: 8px;\r\n  cursor: pointer;\r\n  outline: none;\r\n}"]}
